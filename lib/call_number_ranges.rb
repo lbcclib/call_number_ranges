@@ -12,7 +12,7 @@ DISCIPLINES = {
                               'S[0-9]+|SF1?[0-9]{,2}|SF2[0-48-9][0-9]|SF27[6-9]|'\
                               'TJ148[0-9]|TJ149[0-6])'),
   'Anthropology' => /^(CC|GN|GR|GT|E[5-9][0-9](\.|\s)|PM[0-9]{1,3}(\.|\s)|PM[1-7][0-9]{3}(\.|\s))/,
-  'Automotive technology' => /^TL(\.|\s)/,
+  'Automotive technology' => /^(TP359\s?\.B46|TL)/,
   'Aviation science' => /^(TL[56][0-9]{2}|7[0-7][0-9]|78[0-5])(\.|\s)/,
   'Biology' => Regexp.new('^(GE[0-9]|'\
                           'Q[12]?[0-9]{,2}(\.|\s)|QH[0-9]|QK[0-9]|QL[0-9]|QM[0-9]|QP[0-9]|QR[0-9]|'\

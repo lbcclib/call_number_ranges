@@ -15,6 +15,7 @@ EXAMPLE_CALL_NUMBERS = {
   'TH6711.E38 2006' => ['Welding'],
   'TJ184 .L39 2018' => ['Engineering', 'Machine tool'],
   'TK4660 .J39 2015' => %w[Engineering Welding],
+  'TP359.B46 E87 2015' => ['Automotive technology'],
   'TS227 .M268 2002' => ['Welding'],
   'TS280 .G72 1979' => ['Welding'],
   'TT922 .K56 2018' => ['Ceramics', 'Visual arts'],
