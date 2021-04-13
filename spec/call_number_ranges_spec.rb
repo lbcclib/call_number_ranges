@@ -13,6 +13,7 @@ EXAMPLE_CALL_NUMBERS = {
   'RT120.I5 C766 2020' => ['Nursing'],
   'S591.P584 2014' => %w[Agriculture Biology],
   'TH6711.E38 2006' => ['Welding'],
+  'TJ184 .L39 2018' => ['Engineering', 'Machine tool'],
   'TK4660 .J39 2015' => %w[Engineering Welding],
   'TS227 .M268 2002' => ['Welding'],
   'TS280 .G72 1979' => ['Welding'],
