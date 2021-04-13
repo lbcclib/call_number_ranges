@@ -1,8 +1,10 @@
 # frozen_string_literal: true
 
 EXAMPLE_CALL_NUMBERS = {
+  'BF692.L476 2017' => ['Psychology', 'Queer studies', "Women's studies"],
   'E99.A35 S75 2018' => %w[Anthropology History],
   'HF5635 .E33 2000' => %w[Accounting Business],
+  'HQ76.96 .J37 2019' => ['Queer studies', 'Sociology'],
   'ML3477 .S75 2019' => ['Music'],
   'NB1220 .H3' => ['Welding', 'Visual arts'],
   'QH91.M59 2020' => ['Biology'],
