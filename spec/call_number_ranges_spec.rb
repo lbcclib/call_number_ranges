@@ -35,6 +35,6 @@ RSpec.describe CallNumberRanges do
 
   it "does not put Death and Dying into Women's studies" do
     expect(CallNumberRanges::CallNumber.disciplines('HQ1073 .D68 2019'))
-           .not_to include("Women's studies")
+      .not_to include("Women's studies")
   end
 end
