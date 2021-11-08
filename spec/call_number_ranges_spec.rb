@@ -5,6 +5,7 @@ EXAMPLE_CALL_NUMBERS = {
   'E99.A35 S75 2018' => %w[Anthropology History],
   'HF5635 .E33 2000' => %w[Accounting Business],
   'HQ76.96 .J37 2019' => ['Queer studies', 'Sociology'],
+  'LB2328 .K57 2021' => ['College administration', 'Education and HDFS'],
   'ML3477 .S75 2019' => ['Music'],
   'NB1220 .H3' => ['Welding', 'Visual arts'],
   'QH91.M59 2020' => ['Biology'],
