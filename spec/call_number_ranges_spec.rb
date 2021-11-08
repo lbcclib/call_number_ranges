@@ -20,6 +20,7 @@ EXAMPLE_CALL_NUMBERS = {
   'TK151 .M55 2020' => %w[Electrician Engineering],
   'TK4660 .J39 2015' => %w[Engineering Welding],
   'TP359.B46 E87 2015' => ['Automotive technology'],
+  'TP371.44.K369 2012' => ['Culinary arts'],
   'TS227 .M268 2002' => ['Welding'],
   'TS280 .G72 1979' => ['Welding'],
   'TT922 .K56 2018' => ['Ceramics', 'Visual arts'],
