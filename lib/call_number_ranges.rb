@@ -40,6 +40,7 @@ DISCIPLINES = {
                                      'HV699|HV[7-9][0-9]{2}|HV1[0-3][0-9]{2}|14[0-4][0-9]|'\
                                      'HQ75\.27|HQ75\.53|HQ77[789]|HQ78[01]|HQ79[3-9]|'\
                                      'L[ABC]?[0-9]+)(\.|\s)'),
+  'Electrician' => /^(QC5\d{2}|QC7[01]\d|QC721|TK1\d{2})/,
   'Engineering' => /^(T[AJK][0-9]+|TP15[56])(\.|\s)/,
   'English and writing' => /^(LB2360|P[0-9EN-Z]|T11(\.|\s)|T11\.[0-5]|ZA3075)/,
   'English Language Acquisition' => Regexp.new('^(LB1572|LB1576|'\
