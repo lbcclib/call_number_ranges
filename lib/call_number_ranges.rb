@@ -74,7 +74,7 @@ DISCIPLINES = {
                                     'R118|R123|R728\.8|'\
                                     'RA[1-9]|RA[1-9][0-9]|RA[123][0-9]{2}|RA40[0-9]|RA41[0-5]|'\
                                     'RC683.5.E5|RS[0-9]+)(\.|\s)'),
-  'Music' => /^(M|ML|MT)[0-9]+/,
+  'Music' => /^((M|ML|MT)[0-9]+|QP306)/,
   'Non-destructive testing' => /^TA417\.[2-5]/,
   'Nursing' => Regexp.new('^((GN484\.38)|'\
                           '(QM|R[GST])[0-9]+|'\

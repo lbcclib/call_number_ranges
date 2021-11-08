@@ -10,6 +10,7 @@ EXAMPLE_CALL_NUMBERS = {
   'QH91.M59 2020' => ['Biology'],
   'PS3607.A694 T48 2020' => ['English and writing'],
   'QA39.3.M384 2011' => ['Math'],
+  'QP306 .D558 2018' => %w[Biology Music Nursing],
   'RT120.I5 C766 2020' => ['Nursing'],
   'S591.P584 2014' => %w[Agriculture Biology],
   'TH6711.E38 2006' => ['Welding'],
